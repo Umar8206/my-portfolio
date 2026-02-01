@@ -6,7 +6,7 @@ import Helm from '../../components/SVGs/Helm'
 import { useParallax } from 'react-scroll-parallax'
 
 const Paragraph = ({ text }) => (
-    <div data-aos="zoom-in-left" className='ai-myself-paragraph'>
+    <div data-aos="zoom-in-left text-white" className='ai-myself-paragraph'>
         {text}
     </div>
 )
