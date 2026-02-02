@@ -2,7 +2,7 @@ const mySelf = {
   heading: 'My Portfolio',
   paragraphs: [
     `
-    Greetings, I'm Muhammad Aamir Malik, a seasoned mobile and backend developer with over 3 years of experience in the dynamic IT industry. My expertise lies in crafting cutting-edge, full-stack mobile, hybrid, and backend applications for Android and iOS platforms, utilizing the power of React Native, along with scalable backend systems using Node.js and NestJS. I take immense pride in my work, striving to develop solutions that are not only efficient but also secure, scalable, and user-friendly, catering to the diverse needs of clients globally.
+    Greetings, I'm Muhammad Muhammad Umar, a seasoned mobile and backend developer with over 3 years of experience in the dynamic IT industry. My expertise lies in crafting cutting-edge, full-stack mobile, hybrid, and backend applications for Android and iOS platforms, utilizing the power of React Native, along with scalable backend systems using Node.js and NestJS. I take immense pride in my work, striving to develop solutions that are not only efficient but also secure, scalable, and user-friendly, catering to the diverse needs of clients globally.
     `,
     `
     Having successfully delivered projects to satisfied clients worldwide, I've gained valuable experience collaborating with individuals from various cultures. My journey has taken me from local software houses to platforms like Fiverr and Upwork, eventually leading me to work with international companies. This diverse exposure has enriched my understanding of different perspectives and enhanced my ability to adapt to varied work environments.
