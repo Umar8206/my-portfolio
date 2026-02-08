@@ -76,3 +76,55 @@
     }
   }
 }
+.ai-contact-form {
+  margin-top: 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.ai-contact-form-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 14px;
+}
+
+@media (min-width: 768px) {
+  .ai-contact-form-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.ai-field {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.ai-field-label {
+  font-size: 14px;
+  opacity: 0.8;
+}
+
+.ai-field-input,
+.ai-field-textarea {
+  width: 100%;
+  border: 1px solid rgba(0,0,0,0.15);
+  border-radius: 10px;
+  padding: 12px 14px;
+  outline: none;
+  background: #fff;
+}
+
+.ai-field-input:focus,
+.ai-field-textarea:focus {
+  border-color: #0ea5a5; /* close to your teal */
+}
+
+.ai-contact-feedback {
+  margin-top: 8px;
+  font-size: 14px;
+}
+
+.ai-contact-feedback.success { color: #16a34a; }
+.ai-contact-feedback.error { color: #dc2626; }
