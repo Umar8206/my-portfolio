@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <link rel="shortcut icon" href="/assets/uc.png" />
+<link rel="shortcut icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
         <link
@@ -19,7 +19,7 @@ export default function Document() {
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"
         />
-        <link rel="manifest" href="/manifest.json" />
+        {/* <link rel="manifest" href="/manifest.json" /> */}
         <link
           href="../public/icons/192.png"
           rel="icon"
@@ -32,8 +32,8 @@ export default function Document() {
           type="image/png"
           sizes="32x32"
         />
-        <link rel="apple-touch-icon" href="../public/icons/192.png"></link>
-        <link rel="apple-touch-icon" href="../public/icons/192.png"></link>
+       <link rel="apple-touch-icon" href="/assets/uc.png" />
+
 
         <meta name="theme-color" content="#ffd369" />
       </Head>
