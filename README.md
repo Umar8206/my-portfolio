@@ -6,13 +6,10 @@
 </p>
 <p align="center">
   Check Demo:
-  <a href="http://muhammadumar879.vercel.app" target="_blank">Personal Portfolio</a>
+  <a href="https://muhammad-umar-codes.vercel.app" target="_blank">Personal Portfolio</a>
 </p>
 
-<div align="center">
-  <img src="./public/assets/portfolio.gif" alt="Portfolio Demo" width="100%" />
-  <br>
-</div>
+
 
 ## 🛠 Installation and Setup Instructions
 
