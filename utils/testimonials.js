@@ -4,26 +4,26 @@ const testimonials = {
   {
     rating: 5,
     quote: "Great communication and fast delivery. The app was stable and production-ready.",
-    name: "Client Name",
+    name: "Syed Omar Alee",
     role: "Founder",
     company: "Startup",
-    platform: "Upwork",
+    platform: "Local",
   },
   {
     rating: 5,
     quote: "Very professional and solved issues quickly. Strong React Native + backend skills.",
-    name: "Client Name",
+    name: "AbdurRehman Ali",
     role: "Product Manager",
     company: "Company",
-    platform: "Fiverr",
+    platform: "",
   },
   {
     rating: 5,
     quote: "Delivered exactly as required and stayed responsive throughout the project.",
-    name: "Client Name",
+    name: "Shaheen Bakery",
     role: "CEO",
     company: "Business",
-    platform: "LinkedIn",
+    platform: "",
   },
   
 ]}
